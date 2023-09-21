@@ -55,3 +55,27 @@ The dataset was obtained by scraping the QS World University Rankings website wi
 Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. There are many different ways to perform web scraping to obtain data from websites. These include using online services, particular APIs or even creating code for web scraping from scratch.
 
 Web scraping requires two parts, namely the crawler and the scraper. The crawler is an artificial intelligence algorithm that browses the web to search for the particular data required by following the links across the internet. The scraper, on the other hand, is a specific tool created to extract data from the website. The design of the scraper can vary greatly according to the complexity and scope of the project so that it can quickly and accurately extract the data. In this project, I created my code to scrape data from the Amazon website from scratch.
+
+
+## [Project 7: Computer Vision]()
+Computer vision in data science is a multidisciplinary field that leverages machine learning and deep learning techniques to enable computers to understand and interpret visual information. It has a wide range of applications across industries and continues to advance rapidly as technology and algorithms improve.
+
+Data science often starts by preprocessing images to enhance their quality and extract relevant features. This may involve tasks like resizing, filtering, and noise reduction to improve the accuracy of subsequent analyses. 
+
+One of the key steps in computer vision is feature extraction. This involves identifying specific characteristics or patterns within an image that are relevant to the task at hand. Features can be as basic as edges or corners, or as complex as deep neural network representations.
+
+Machine learning and deep learning techniques are commonly used in computer vision to build models that can learn from data and make predictions or classifications. Convolutional Neural Networks (CNNs) are particularly powerful for image-related tasks and have driven many recent advances in computer vision.
+
+### [Facial Detection](https://github.com/Wakilu/Facial-Detection-Procject/blob/main/Facial%20Detection%20using%20open%20cv.ipynb)
+The Face Detection Project is a cutting-edge application of computer vision technology aimed at identifying and localizing human faces within images or video streams. This project leverages state-of-the-art machine learning and deep learning algorithms to achieve accurate and real-time face detection.
+
+### [Smile Detection](https://github.com/Wakilu/Smile-Detection-Project/blob/main/Smile%20Detection%20.ipynb)
+Smile Detection Project is an innovative application of computer vision and machine learning with the potential to revolutionize various industries. Its ability to recognize and interpret smiles offers exciting opportunities for enhancing technology-driven experiences and improving emotional well-being. 
+
+### [Hand Detection](https://github.com/Wakilu/Hand-Detection-Project/blob/main/Hand%20Detection%20Project.ipynb)
+Hand Detection Project represents an exciting frontier in computer vision and human-computer interaction. Its ability to detect and track hands, coupled with gesture recognition capabilities, holds immense potential to revolutionize how we interact with technology and enhance accessibility across various domains. 
+
+### [Pose Detection](https://github.com/Wakilu/Pose-Detection-Project/blob/main/Pose%20Detection%20Project.ipynb)
+Pose Detection Project represents a significant advancement in computer vision, enabling the precise recognition and tracking of human body poses. Its versatility and potential for real-world applications make it a valuable technology in various domains.
+
+
