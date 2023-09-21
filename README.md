@@ -6,8 +6,8 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 
 **Problem Statement**
 
-*Blossom Bank wants to build a Machine Learning model to predict online payment fraud
-*The data set contains fraudulent transactions.
+* Blossom Bank wants to build a Machine Learning model to predict online payment fraud
+* The data set contains fraudulent transactions.
 
 **Objective**
 
