@@ -18,7 +18,7 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 **Problem statement**
 * Predict if the customer will subscribe to a term deposit
 
-# Project 3: Loan Eligibility for Dream Housing Finance Company
+# [Project 3: Loan Eligibility for Dream Housing Finance Company](https://github.com/Wakilu/Data_Science_Portfolio__/blob/main/Loan%20Eligibility%20for%20Dream%20Housing%20Finance%20company.ipynb)
 Dream Housing Finance is a company that offers various types of home loans, catering to both urban and rural areas. The loan application process begins with the customer applying for a home loan. Subsequently, the company assesses the customer's eligibility for the loan.
 
 The company aims to streamline and automate this loan eligibility assessment in real time. This automation will be based on the information provided by customers when filling out the online application form. This information includes details such as Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History, and other relevant factors.
