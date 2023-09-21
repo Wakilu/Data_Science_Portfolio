@@ -38,7 +38,7 @@ Below are some of the factors that can affect the Loan Approval (dependent varia
   
 These are the factors (not limited to ) that can be helpful in deciding whether the loan should be approved or not.
 
-## Project 4: EDA on Lagos House Prices
+## [Project 4: EDA on Lagos House Prices](https://github.com/Wakilu/Basic-EDA-on-Lagos-House-Prices-Data-Set/blob/main/Beginner%20EDA%20%20Work%20Book%20-%20Lagos%20House%20Prices%20Set.ipynb)
 The dataset contains 5336 records of rental properties around 7 districts in Lagos. The data was sourced from a Nigerian real estate company website.
 
 
