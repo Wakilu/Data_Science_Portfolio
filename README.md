@@ -12,7 +12,7 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 **Objective**
 * Improve the financial fraud detection system by building a machine learning model and identifying the best machine learning model to predict online payment fraud.
 
-# Project 2: Product Uptake
+# [Project 2: Product Uptake](https://github.com/Wakilu/Machine-Learning-Project/blob/main/Oloyade%20Wakilu%20-%20Predict%20Product%20Uptake%201.ipynb)
 The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be (or not) subscribed.
 
 **Problem statement**
