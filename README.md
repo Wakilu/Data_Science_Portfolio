@@ -42,4 +42,12 @@ These are the factors (not limited to ) that can be helpful in deciding whether 
 
 ## [Project 4: EDA on Lagos House Prices](https://github.com/Wakilu/Basic-EDA-on-Lagos-House-Prices-Data-Set/blob/main/Beginner%20EDA%20%20Work%20Book%20-%20Lagos%20House%20Prices%20Set.ipynb)
 The dataset contains 5336 records of rental properties around 7 districts in Lagos. The data was sourced from a Nigerian real estate company website.
+
 ![alt text](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/lagos%20house%20prices.png)
+
+## Project 5: World University Rankings EDA
+The QS World University Rankings is an annual report that evaluates and ranks global universities, published by Quacquarelli Symonds. This ranking is endorsed by the International Ranking Expert Group (IREG) and is considered one of the three most extensively followed university rankings worldwide, alongside the Academic Ranking of World Universities and the Times Higher Education World University Rankings. Quacquarelli Symonds (QS) is a UK-based company that specializes in assessing higher education institutions across the globe.
+
+The dataset was obtained by scraping the QS World University Rankings website with Python and Selenium.
+
+
