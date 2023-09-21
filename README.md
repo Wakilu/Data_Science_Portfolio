@@ -12,7 +12,7 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 **Objective**
 * Improve the financial fraud detection system by building a machine learning model and identifying the best machine learning model to predict online payment fraud.
   
-![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Distriution%20classes.png)
+![alt text](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Distriution%20classes.png)
 
 ## [Project 2: Product Uptake](https://github.com/Wakilu/Machine-Learning-Project/blob/main/Oloyade%20Wakilu%20-%20Predict%20Product%20Uptake%201.ipynb)
 The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be (or not) subscribed.
@@ -45,7 +45,7 @@ The dataset contains 5336 records of rental properties around 7 districts in Lag
 
 ![alt text](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/lagos%20house%20prices.png)
 
-## Project 5: World University Rankings EDA
+## [Project 5: World University Rankings EDA](https://github.com/Wakilu/Data_Science_Portfolio__/blob/main/EDA%20World%20University%20Rankings.ipynb)
 The QS World University Rankings is an annual report that evaluates and ranks global universities, published by Quacquarelli Symonds. This ranking is endorsed by the International Ranking Expert Group (IREG) and is considered one of the three most extensively followed university rankings worldwide, alongside the Academic Ranking of World Universities and the Times Higher Education World University Rankings. Quacquarelli Symonds (QS) is a UK-based company that specializes in assessing higher education institutions across the globe.
 
 The dataset was obtained by scraping the QS World University Rankings website with Python and Selenium.
