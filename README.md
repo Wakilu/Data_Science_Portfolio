@@ -10,5 +10,10 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 * The data set contains fraudulent transactions.
 
 **Objective**
+* Improve the financial fraud detection system by building a machine learning model and identifying the best machine learning model to predict online payment fraud.
 
-Improve the financial fraud detection system by building a machine learning model and identifying the best machine learning model to predict online payment fraud.
+# Project 2: Product Uptake
+The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be (or not) subscribed.
+
+**Problem statement**
+* Predict if the customer will subscribe to a term deposit
