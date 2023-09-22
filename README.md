@@ -12,7 +12,7 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 **Objective**
 * Improve the financial fraud detection system by building a machine learning model and identifying the best machine learning model to predict online payment fraud.
 
-![](/images/Distriution%20classes.png)
+![](/images/product.png)
 
 
 ## [Project 2: Product Uptake](https://github.com/Wakilu/Machine-Learning-Project/blob/main/Oloyade%20Wakilu%20-%20Predict%20Product%20Uptake%201.ipynb)
