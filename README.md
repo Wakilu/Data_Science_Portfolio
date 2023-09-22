@@ -92,3 +92,5 @@ Hand Detection Project represents an exciting frontier in computer vision and hu
 Pose Detection Project represents a significant advancement in computer vision, enabling the precise recognition and tracking of human body poses. Its versatility and potential for real-world applications make it a valuable technology in various domains.
 
 ![](/images/Pose.PNG)
+
+theme: minima
