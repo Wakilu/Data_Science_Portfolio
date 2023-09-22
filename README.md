@@ -93,4 +93,4 @@ Pose Detection Project represents a significant advancement in computer vision, 
 
 ![](/images/Pose.PNG)
 
-theme: minima
+
