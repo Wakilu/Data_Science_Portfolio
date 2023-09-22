@@ -12,13 +12,16 @@ Blossom Bank also known as BB PLC is a multinational financial services group, t
 **Objective**
 * Improve the financial fraud detection system by building a machine learning model and identifying the best machine learning model to predict online payment fraud.
   
-![alt text](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Distriution%20classes.png)
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Distriution%20classes.png)
 
 ## [Project 2: Product Uptake](https://github.com/Wakilu/Machine-Learning-Project/blob/main/Oloyade%20Wakilu%20-%20Predict%20Product%20Uptake%201.ipynb)
 The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be (or not) subscribed.
 
 **Problem statement**
 * Predict if the customer will subscribe to a term deposit
+
+  
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/product.png)
 
 ## [Project 3: Loan Eligibility for Dream Housing Finance Company](https://github.com/Wakilu/Data_Science_Portfolio__/blob/main/Loan%20Eligibility%20for%20Dream%20Housing%20Finance%20company.ipynb)
 Dream Housing Finance is a company that offers various types of home loans, catering to both urban and rural areas. The loan application process begins with the customer applying for a home loan. Subsequently, the company assesses the customer's eligibility for the loan.
@@ -40,16 +43,20 @@ Below are some of the factors that can affect the Loan Approval (dependent varia
   
 These are the factors (not limited to ) that can be helpful in deciding whether the loan should be approved or not.
 
+
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/loan.png)
+
 ## [Project 4: EDA on Lagos House Prices](https://github.com/Wakilu/Basic-EDA-on-Lagos-House-Prices-Data-Set/blob/main/Beginner%20EDA%20%20Work%20Book%20-%20Lagos%20House%20Prices%20Set.ipynb)
 The dataset contains 5336 records of rental properties around 7 districts in Lagos. The data was sourced from a Nigerian real estate company website.
 
-![alt text](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/lagos%20house%20prices.png)
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/lagos%20house%20prices.png)
 
 ## [Project 5: World University Rankings EDA](https://github.com/Wakilu/Data_Science_Portfolio__/blob/main/EDA%20World%20University%20Rankings.ipynb)
 The QS World University Rankings is an annual report that evaluates and ranks global universities, published by Quacquarelli Symonds. This ranking is endorsed by the International Ranking Expert Group (IREG) and is considered one of the three most extensively followed university rankings worldwide, alongside the Academic Ranking of World Universities and the Times Higher Education World University Rankings. Quacquarelli Symonds (QS) is a UK-based company that specializes in assessing higher education institutions across the globe.
 
 The dataset was obtained by scraping the QS World University Rankings website with Python and Selenium.
 
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/university.png)
 
 ## [Project 6: Amazon Web Scraper Project](https://github.com/Wakilu/Data_Science_Portfolio__/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
 Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. There are many different ways to perform web scraping to obtain data from websites. These include using online services, particular APIs or even creating code for web scraping from scratch.
@@ -69,13 +76,20 @@ Machine learning and deep learning techniques are commonly used in computer visi
 ### [Facial Detection](https://github.com/Wakilu/Facial-Detection-Procject/blob/main/Facial%20Detection%20using%20open%20cv.ipynb)
 The Face Detection Project is a cutting-edge application of computer vision technology aimed at identifying and localizing human faces within images or video streams. This project leverages state-of-the-art machine learning and deep learning algorithms to achieve accurate and real-time face detection.
 
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Facial.PNG)
+
 ### [Smile Detection](https://github.com/Wakilu/Smile-Detection-Project/blob/main/Smile%20Detection%20.ipynb)
 Smile Detection Project is an innovative application of computer vision and machine learning with the potential to revolutionize various industries. Its ability to recognize and interpret smiles offers exciting opportunities for enhancing technology-driven experiences and improving emotional well-being. 
 
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Smile.PNG)
+
 ### [Hand Detection](https://github.com/Wakilu/Hand-Detection-Project/blob/main/Hand%20Detection%20Project.ipynb)
 Hand Detection Project represents an exciting frontier in computer vision and human-computer interaction. Its ability to detect and track hands, coupled with gesture recognition capabilities, holds immense potential to revolutionize how we interact with technology and enhance accessibility across various domains. 
+
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Hand.PNG)
 
 ### [Pose Detection](https://github.com/Wakilu/Pose-Detection-Project/blob/main/Pose%20Detection%20Project.ipynb)
 Pose Detection Project represents a significant advancement in computer vision, enabling the precise recognition and tracking of human body poses. Its versatility and potential for real-world applications make it a valuable technology in various domains.
 
 
+![](https://github.com/Wakilu/Data_Science_Portfolio/blob/main/images/Pose.PNG)
